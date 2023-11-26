@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string-array name="category">
+        <item>Business</item>
+        <item>Entertainment</item>
+        <item>General</item>
+        <item>Health</item>
+        <item>Science</item>
+        <item>Sports</item>
+        <item>Technology</item>
+    </string-array>
+    <string name="unknown">Unknown</string>
+    <string name="no_description">No Description</string>
+    <string name="success_load_web">javascript:alert(\'\Load web success\'\)</string>
+    <string name="search">Search</string>
+    <string name="no_search">Please find the articles</string>
+    <string name="search_here">Search here</string>
+    <string name="no_data">No data</string>
+</resources>
